@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.fakekeyboard",                              
+  "displayName": "Fake Window Keyboard",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This tool allows to have a fake keyboard that you can feed with UDP. It allows to have the feeling of using a keyboard in code.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_08_30_FakeWindowKeyboard.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
